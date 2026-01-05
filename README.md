@@ -27,9 +27,9 @@ Responsive Design: Looks perfect on a large desktop monitor or a mobile screen.
 Privacy Focused: No ads, no tracking. Just a calculator.
 
 📥 Download & Install
-💻 For Windows (Itch.io): CalcTech Setup 1.0.0.exe
-📱 For Android (Itch.io): CalcTech 1.0.0.apk
-🛹 Download From SourceForge: Click here
+💻 For Windows (Itch.io): <a href='https://ashish-apps.itch.io/calctech'>CalcTech Setup 1.0.0.exe</a>
+📱 For Android (Itch.io): <a href='https://ashish-apps.itch.io/calctech'>CalcTech 1.0.0.apk</a>
+🛹 Download From SourceForge: <a href='https://sourceforge.net/projects/calctech/'>Click here</a>
 
 
 Built by Ashish Apps.
